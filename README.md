@@ -57,8 +57,8 @@ PowerPoint 提供了多种项目符号和编号样式，可以清晰地组织你
 ![image](https://github.com/user-attachments/assets/1060f894-a478-4427-ae94-b736fe1370b5)
 
 ## 模型描述页
+![image](https://github.com/user-attachments/assets/295bc632-6d2f-499d-ae35-535f8b99fed3)
 
-![image](https://github.com/user-attachments/assets/3af2dc5f-3251-4024-87c8-e3aa9bf00cef)
 
 ## 实验结果页
 
